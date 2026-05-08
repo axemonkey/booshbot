@@ -35,7 +35,7 @@ const generalResponse = [
 	// 'Miso! Miso! Fighting in the dojo. Miso! Miso! Oriental prince in the land of soup!',
 	'Soup, soup, a tasty, soup soup,\nSpicy carrot and coriander\n[Chilli Chowder!]\nCROUTON CROUTON!\nCrunchy friends in a liquid broth!\nI am gazpacho oh!\nI am a summer soup oh!\nMiso, Miso,\nFighting in the Dojo,\nMiso, Miso,\nOriental prince in the land of SOUP!',
 	'Colon Explorer?',
-	'Calm a llama down\nCalm a llama deep down\nIn the ocean\nBlue like a barnacle\nSitting in a tight place\nLaughing like a monkey arm\nPulling like a China boy\nCarraway, carraway, carraway, noise!\nBoing, chi-ka, masala\nBoing, chi-ka, masala\nOoooooooh... Tooth! Tooth! *[inhale]*',
+	'Calm a llama down\nCalm a llama deep down\nIn the ocean\nBlue like a barnacle\nSitting in a tight place\nLaughing like a monkey arm\nPulling like a China boy\nCarraway, carraway, carraway, noise!\nBoing, chi-ka, masala\nBoing, chi-ka, masala\nOoooooooh... Tooth! Tooth! _[inhale]_',
 	'You haven’t seen my mate Howard, have you? Kinda tall, scruffy hair, small eyes like a crab?',
 	'Cheese is a kind of meat\nA tasty yellow beef\nI milk it from my teat\nBut I try to be discrete',
 	'Every time you pick up an instrument, I’ll be there inside ya, wearing ya like a glove!',
@@ -54,7 +54,7 @@ const generalResponse = [
 	'Do I look like a reasonable man to you, or a peppermint nightmare?',
 	'You can’t even reach the pedals, you cleft.',
 	'I can’t drive, I’m shitfaced!',
-	'You *are* a bladder.',
+	'You _are_ a bladder.',
 	'That’s a pretty big mood swing. He swung right out of the band there.',
 	'Let us see what is behing the Door of Kukundu!',
 	'You’re a French duke if ever I saw one. You lay around on hammocks all day eating soft cheese.',
@@ -97,7 +97,7 @@ const theMoonResponse = [
 	'When you are the moon, there is a person people say is the sun. I saw the sun once, and he came past me, really fast. And it was an, it was called, the, an eclipse. And he came fast! But as he came past, I licked his back. And he doesn’t know I licked his back! All in his yellow suit! I’m the moon.',
 	'When you are the moon, the best form you can be is a full moon. And then the half moon... he’s all right. But the full moon is the famous moon. And then three-quarters, eh, no one gives a shit about him. When does he come, two days in, to the calendar month? He’s useless. Full moon. The moon. The main moon.',
 	'One time, I saw a man looking at me, yes, with his eyes. And then, he, he picked up a tube. And he looked, in the tube, and he made the moon big, inside the tube. The moon big inside a tube!',
-	'Here’s a poem, from the moon.\n_Neil Armstrong, walking on my face._\n_Buzz Aldrin, walking on my face._\n_And the third one is a space man, walking on my face._\n*All on the surfaces, and they’re looking at all of the stuff that the moon has got.*\nYeah.',
+	'Here’s a poem, from the moon.\n_Neil Armstrong, walking on my face._\n_Buzz Aldrin, walking on my face._\n_And the third one is a space man, walking on my face._\n_All on the surfaces, and they’re looking at all of the stuff that the moon has got._\nYeah.',
 	'And some say, Old Gregg is like a, a big fish finger, but big! Like um, like a garage. As big as a garage. Imagine that fish finger, when you can see it as big as a garage, oh! It isn’t small, it’s the big one! Like that.',
 ];
 
