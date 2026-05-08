@@ -97,7 +97,7 @@ const theMoonResponse = [
 	'When you are the moon, there is a person people say is the sun. I saw the sun once, and he came past me, really fast. And it was an, it was called, the, an eclipse. And he came fast! But as he came past, I licked his back. And he doesn’t know I licked his back! All in his yellow suit! I’m the moon.',
 	'When you are the moon, the best form you can be is a full moon. And then the half moon... he’s all right. But the full moon is the famous moon. And then three-quarters, eh, no one gives a shit about him. When does he come, two days in, to the calendar month? He’s useless. Full moon. The moon. The main moon.',
 	'One time, I saw a man looking at me, yes, with his eyes. And then, he, he picked up a tube. And he looked, in the tube, and he made the moon big, inside the tube. The moon big inside a tube!',
-	'Here’s a poem, from the moon.\n*Neil Armstrong, walking on my face.*\n*Buzz Aldrin, walking on my face.*\n*And the third one is a space man, walking on my face.*\n*All on the surfaces, and they’re looking at all of the stuff that the moon has got.*\nYeah.',
+	'Here’s a poem, from the moon.\n_Neil Armstrong, walking on my face._\n_Buzz Aldrin, walking on my face._\n_And the third one is a space man, walking on my face._\n*All on the surfaces, and they’re looking at all of the stuff that the moon has got.*\nYeah.',
 	'And some say, Old Gregg is like a, a big fish finger, but big! Like um, like a garage. As big as a garage. Imagine that fish finger, when you can see it as big as a garage, oh! It isn’t small, it’s the big one! Like that.',
 ];
 
