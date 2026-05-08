@@ -80,6 +80,9 @@ const generalResponse = [
 	'It’s the tears of Mozart... mixed with the urine of Mark Knopfler.',
 	'I’ll be, myself, participating in that as a porpoise jockey in the porpoise derby. Don’t know if you’ve ever seen a man ride a porpoise, but it can be thrilling.',
 	'All the great front men work with animals. Jagger worked in a pet shop. Rod Stewart worked in a tortoise sanctuary. Billy Ocean worked in an aquarium. That’s how he got his name.',
+	'It was my birthday, I was off my chops! I had two Mick Jaggers and a line of cheap whizz!',
+	'Cheekbone?',
+	'You ever drunk Baileys from a shoe?',
 ];
 
 const jazzResponse = [
