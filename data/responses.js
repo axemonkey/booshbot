@@ -72,7 +72,7 @@ const generalResponse = [
 	'Rudy, you ought to get that door in your head checked out. It’s letting in all sorts of mambo jimbo.',
 	'Your wife was not just free with me. She was free with everyone.',
 	'My wife was like all women: strange... and evil!',
-	'Spider Dijon: You keep trying to mould me into something I’m not! Well, you cannot make milk into cheese!\nRudi van Disarzio: Yes, you can.\nSpider: Bad example!',
+	'Spider Dijon: You keep trying to mould me into something I’m not! Well, you cannot make milk into cheese!\nRudi van DiSarzio: Yes, you can.\nSpider: Bad example!',
 	'This is like Woodstock all over again. The idea is you play, and then you scram; but oh no, you wouldn’t listen, would you? You wanted to hang around, didn’t you? And then we got roped into tidying up! You, me, and Carlos Santana; hoovering for six weeks!',
 	'You’re absurd. Daltrey doesn’t hoover for no one. He is his own man!',
 	'Here it is written that a musician may find... The New Sound.',

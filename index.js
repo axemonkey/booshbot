@@ -9,7 +9,7 @@ const BooshBot = new App({
 	socketMode: true,
 });
 
-const GENERAL_REGEXP = /vince|noir|howard|naboo|boosh|mighty|bollo|noel|fielding|julian|barratt/ig;
+const GENERAL_REGEXP = /vince|noir|howard|naboo|boosh|mighty|bollo|noel|fielding|julian|barratt|gideon|shaman|fossil|zoo|bainbridge/ig;
 const JAZZ_REGEXP = /jazz|fusion/ig;
 const THE_MOON_RESPONSE = /moon/ig;
 const ROLLCALL_REGEXP = /(rollcall|roll call)/ig;
