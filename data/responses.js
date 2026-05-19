@@ -69,7 +69,7 @@ const generalResponse = [
 	'I’ll tell you how it works, right? I took a note, sawtooth wave, right off this Pantomime Four, ran it back here, re-jammed it through itself, looped it back, mixed it with the sound of this crab committing suicide, and let it stew in its own reverb for about three hours, right? And then I pump it all out through this shoe, to give it that oaky timbre.',
 	'Cyborg Patrick, tell me what you dream\nClockwork Margaret, skating on my mouse mat\nIn your tiny circuit boots, shoes of the future!\nTrousers of the past!',
 	'If you want to say something, speak the plain English. Don’t run around the house in a little car.',
-	'Rudy, you ought to get that door in your head checked out. It’s letting in all sorts of mambo jimbo.',
+	'Rudi, you ought to get that door in your head checked out. It’s letting in all sorts of mambo jimbo.',
 	'Your wife was not just free with me. She was free with everyone.',
 	'My wife was like all women: strange... and evil!',
 	'Spider Dijon: You keep trying to mould me into something I’m not! Well, you cannot make milk into cheese!\nRudi van DiSarzio: Yes, you can.\nSpider: Bad example!',
@@ -83,6 +83,7 @@ const generalResponse = [
 	'It was my birthday, I was off my chops! I had two Mick Jaggers and a line of cheap whizz!',
 	'Cheekbone?',
 	'You ever drunk Baileys from a shoe?',
+	'Killed a swan yesterday. Did a shit on it.',
 ];
 
 const jazzResponse = [
@@ -133,7 +134,4 @@ function buildResponses() {
 module.exports = function () {
 	const responses = buildResponses();
 	return responses;
-}
-
-
-
+};
