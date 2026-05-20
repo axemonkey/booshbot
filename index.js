@@ -65,5 +65,5 @@ BooshBot.message(async ({ message, say }) => {
 	}
 });
 
-console.log('Starting BooshBot...'');
+console.log('Starting BooshBot...');
 BooshBot.start(3003);
