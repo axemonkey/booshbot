@@ -31,8 +31,8 @@ const generalResponse = [
 	'C’mon Bollo, get your monkey anus at the steering wheel!',
 	'I do many things. I span the genres – they call me The Genre Spanner.',
 	'Vince, you’ve gone wrong.',
-	// 'Crouton! Crouton! Crunchy friends in a liquid broth.',
-	// 'Miso! Miso! Fighting in the dojo. Miso! Miso! Oriental prince in the land of soup!',
+	'Crouton! Crouton! Crunchy friends in a liquid broth.',
+	'Miso! Miso! Fighting in the dojo. Miso! Miso! Oriental prince in the land of soup!',
 	'Soup, soup, a tasty, soup soup,\nSpicy carrot and coriander\n[Chilli Chowder!]\nCROUTON CROUTON!\nCrunchy friends in a liquid broth!\nI am gazpacho oh!\nI am a summer soup oh!\nMiso, Miso,\nFighting in the Dojo,\nMiso, Miso,\nOriental prince in the land of SOUP!',
 	'Colon Explorer?',
 	'Calm a llama down\nCalm a llama deep down\nIn the ocean\nBlue like a barnacle\nSitting in a tight place\nLaughing like a monkey arm\nPulling like a China boy\nCarraway, carraway, carraway, noise!\nBoing, chi-ka, masala\nBoing, chi-ka, masala\nOoooooooh... Tooth! Tooth! _[inhale]_',
@@ -83,7 +83,12 @@ const generalResponse = [
 	'It was my birthday, I was off my chops! I had two Mick Jaggers and a line of cheap whizz!',
 	'Cheekbone?',
 	'You ever drunk Baileys from a shoe?',
-	'Killed a swan yesterday. Did a shit on it.',
+  'Killed a swan yesterday. Did a shit on it.',
+  'Fortunately I had a pistol hidden in my moustache.',
+  'It’s impossible to be unhappy in a poncho.',
+  'I’m gonna make you wear a little dress, and hurt you.',
+  'I’m Johnny Two Hats, why do you think they call me that?',
+	'Whatever the percentage, he’s one fishy bastard.',
 ];
 
 const jazzResponse = [

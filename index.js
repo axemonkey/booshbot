@@ -10,8 +10,8 @@ const BooshBot = new App({
 });
 
 const GENERAL_REGEXP =
-	/vince|noir|howard|naboo|boosh|mighty|bollo|noel|fielding|julian|barratt|gideon|shaman|fossil|zoo|bainbridge|crimp|soup|matt berry|herb|whizz|mick jagger|gorilla|jungle|tundra|monk|robe|door|spider|dijon|rudy|rudi|ladder|coins|goth|nana|hitcher|polo|daltrey|hoover|woodstock/gi;
-const JAZZ_REGEXP = /jazz|fusion/gi;
+	/vince|noir|howard|naboo|boosh|mighty|bollo|noel|fielding|julian|barratt|gideon|shaman|fossil|zoo|bainbridge|crimp|soup|matt|berry|herb|whizz|mick|jagger|gorilla|jungle|tundra|monk|robe|door|spider|dijon|rudy|rudi|ladder|coins|goth|nana|hitcher|polo|daltrey|hoover|woodstock/gi;
+const JAZZ_REGEXP = /jazz|fusion|modal|modes|ionian|dorian|phrygian|lydian|mixolydian|aeolian|locrian|dominant|suspended/gi;
 const THE_MOON_RESPONSE = /moon/gi;
 const ROLLCALL_REGEXP = /(rollcall|roll call)/gi;
 
